@@ -1,0 +1,30 @@
+.float-menu{
+	position:fixed;
+	top:180px;
+	left:20px;
+}
+.float-menu ul{
+	list-style-type: none;
+	border: 1px solid #bbb;
+	padding:12px 4px;
+	border-radius:14px;
+	background-color:#fff; 
+	box-shadow: 0 0 3px hsla(50, 20%, 20%, 0.5);
+}
+.float-menu ul li{
+	padding: 6px 4px;
+}
+.float-menu ul li div.float-element{
+	display:block;
+	width:12px;
+	height:12px;
+	background:#aaa;
+	border-radius:6px;
+	cursor: pointer;
+}
+.float-menu ul li div.float-element:hover{
+	background:#ccc;
+}
+.float-menu ul li div.active{
+	background:#ccc;
+}
