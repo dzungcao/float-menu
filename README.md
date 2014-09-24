@@ -13,8 +13,4 @@ INSTALLATION
 EXAMPLE
 ------------
 
-<div class="float-section" data-caption="Section 1">
-	<h1>Section 1</h1>
-</div>
-
 Download and view demo page for more information
