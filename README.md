@@ -14,3 +14,6 @@ EXAMPLE
 ------------
 
 Download and view demo page for more information
+
+Live demo
+http://float-menu.dzungcao.com/
